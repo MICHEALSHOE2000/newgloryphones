@@ -1,10 +1,9 @@
 # New Glory Phones
 
-Mobile-first website for New Glory Phones.
+Premium multi-brand gadget store website for New Glory Phones.
 
 ## Brand details
 
-- Brand: New Glory Phones
 - Tagline: Experience Communication
 - WhatsApp: 0818 750 5466
 - Phone: 0814 157 0070
@@ -12,10 +11,8 @@ Mobile-first website for New Glory Phones.
 
 ## Run locally
 
-The site is static and has no build step.
+This is a static site with no build step:
 
 ```bash
 npx serve .
 ```
-
-Open the local URL shown in the terminal.
